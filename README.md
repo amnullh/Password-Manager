@@ -40,3 +40,5 @@ This is a simple password manager application built using Python and Tkinter. It
 - JSON (built-in)
 
 ## Screenshots
+![Image_1](images/pass_mang_1.png)
+![Image_2](images/pass_mang_2.png)
